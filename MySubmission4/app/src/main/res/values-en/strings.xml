@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MySubmission4</string>
+    <string name="movie_submission_4">Movie Submission 4</string>
+    <string name="image">image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="serial">Series</string>
+    <string name="favorit">Add Favorite</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="poster">poster</string>
+    <string name="detail_film">Detail Film</string>
+    <string name="description">Description</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="language">en</string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="delete_favourite">Delete Favourite</string>
+    <string name="add_favourite">Add Favourite</string>
+    <string name="dataisempty">DataisEmpty</string>
+    <string name="data_is_empty">Data is Empty</string>
+    <string name="delete_toast">Delete Succesfull</string>
+    <string name="add_toast_favorite">Successfully add to favorite</string>
+
+</resources>

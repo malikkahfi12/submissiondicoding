@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MySubmission4</string>
+    <string name="movie_submission_4">Movie Submission 4</string>
+    <string name="image">image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Film</string>
+    <string name="serial">Serial</string>
+    <string name="favorit">Favorit</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="poster">poster</string>
+    <string name="detail_film">Ket Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="release_date">Tanggal tayang</string>
+    <string name="rating">Peringkat</string>
+    <string name="language">id</string>
+    <string name="english">Inggris</string>
+    <string name="indonesian">Indonesia</string>
+    <string name="delete_favourite">Hapus Favourite</string>
+    <string name="add_favourite">Tambah Favourite</string>
+    <string name="dataisempty">Data kosong</string>
+    <string name="data_is_empty">Data Kosong</string>
+    <string name="delete_toast">Delete Berhasil</string>
+    <string name="add_toast_favorite">Berhasil simpan ke favorite</string>
+</resources>
